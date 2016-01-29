@@ -38,6 +38,7 @@ a.fancybox:hover img {
 
 .m-p-g__thumbs-img {
     margin: 0;
+    padding: 3px;
     float: left;
     vertical-align: bottom;
     cursor: pointer;

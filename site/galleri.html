@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>KeyCreation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
 
 
     <!-- Bootstrap -->
@@ -77,26 +78,46 @@
     </div><!-- /.container-fluid -->
 </nav>
 
-<div class="gallery container">
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/eee.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
-    <img class="fancybox galleri-thumbnail" src="img/fff.png" />
+<div class="container">
 
+    <div class="m-p-g">
+        <div class="m-p-g__thumbs" data-google-image-layout data-max-height="350">
+            <img src="img/fff.png" data-full="img/fff.png" class="m-p-g__thumbs-img" />
+            <img src="img/eee.png" data-full="img/eee.png" class="m-p-g__thumbs-img" />
+            <img src="http://placehold.it/1920x1080" data-full="http://placehold.it/1920x1080" class="m-p-g__thumbs-img" />
+            <img src="http://unsplash.it/650/450?image=823" data-full="http://unsplash.it/1300/900?image=823" class="m-p-g__thumbs-img" />
+            <img src="http://unsplash.it/600/350?image=815" data-full="http://unsplash.it/1200/700?image=815" class="m-p-g__thumbs-img" />
+            <img src="http://unsplash.it/560/500?image=677" data-full="http://unsplash.it/1120/1000?image=677" class="m-p-g__thumbs-img" />
+            <img src="http://unsplash.it/670/410?image=401" data-full="http://unsplash.it/1340/820?image=401" class="m-p-g__thumbs-img" />
+            <img src="http://unsplash.it/620/340?image=623" data-full="http://unsplash.it/1240/680?image=623" class="m-p-g__thumbs-img" />
+            <img src="http://unsplash.it/790/390?image=339" data-full="http://unsplash.it/1580/780?image=339" class="m-p-g__thumbs-img" />
+        </div>
 
+        <div class="m-p-g__fullscreen"></div>
+    </div>
+
+    <script src="./dist/js/material-photo-gallery.js"></script>
+    <script>
+        var elem = document.querySelector('.m-p-g');
+
+        document.addEventListener('DOMContentLoaded', function() {
+            var gallery = new MaterialPhotoGallery(elem);
+        });
+    </script>
+</div>
+<div id="myModal" class="modal fade" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h3 class="modal-title">Image 5</h3>
+            </div>
+            <div class="modal-body"><a href="#" title="Image 5"><img src="//placehold.it/600x350/2255EE" class="thumbnail img-responsive"></a></div>
+            <div class="modal-footer">
+                <button class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
 </div>
 
 
@@ -106,33 +127,25 @@
     </div>
 </footer>
 
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.pack.min.js"></script>
+
+
+<script src="js/bootstrap.min.js"></script>
 <script type="text/javascript">
-    $(function($){
-        var addToAll = true;
-        var gallery = true;
-        var titlePosition = 'inside';
-        $(addToAll ? 'img' : 'img.fancybox').each(function(){
-            var $this = $(this);
-            var title = $this.attr('title');
-            var src = $this.attr('data-big') || $this.attr('src');
-            var a = $('<a href="#" class="fancybox"></a>').attr('href', src).attr('title', title);
-            $this.wrap(a);
-        });
-        if (gallery)
-            $('a.fancybox').attr('rel', 'fancyboxgallery');
-        $('a.fancybox').fancybox({
-            titlePosition: titlePosition
-        });
+    $('.thumbnail2').click(function(){
+        $('.modal-body').empty();
+        var title = $(this).parent('a').attr("title");
+        $('.modal-title').html(title);
+        $($(this).parents('div').html()).appendTo('.modal-body');
+        $('#myModal').modal({show:true});
     });
-    $.noConflict();
 </script>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/js/bootstrap.min.js"></script>
+
 </body>
 </html>
