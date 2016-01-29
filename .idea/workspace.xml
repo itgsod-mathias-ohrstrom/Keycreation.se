@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5440873-a423-48ba-908e-f3af98049e25" name="Default" comment="">
-<<<<<<< Updated upstream
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/Start.html" afterPath="$PROJECT_DIR$/site/Start.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/företaget.html" afterPath="$PROJECT_DIR$/site/företaget.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/style.css" afterPath="$PROJECT_DIR$/site/css/style.css" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/style.css" afterPath="$PROJECT_DIR$/site/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/galleri.html" afterPath="$PROJECT_DIR$/site/galleri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/galleri_test2.html" afterPath="$PROJECT_DIR$/site/galleri_test2.html" />
-=======
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/företaget.html" afterPath="$PROJECT_DIR$/site/företaget.html" />
->>>>>>> origin/master
-=======
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/företaget.html" afterPath="$PROJECT_DIR$/site/företaget.html" />
->>>>>>> origin/master
->>>>>>> Stashed changes
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/kontakt.html" afterPath="$PROJECT_DIR$/site/kontakt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/style.css" afterPath="$PROJECT_DIR$/site/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Keycreation.se.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,69 +29,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="galleri_test2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/galleri_test2.html">
+      <file leaf-file-name="kontakt.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/kontakt.html">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state vertical-scroll-proportion="-0.0">
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="-11.083333">
-              <caret line="121" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="7" />
-              <folding>
-                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-=======
-=======
->>>>>>> origin/master
-            <state vertical-scroll-proportion="0.0">
->>>>>>> Stashed changes
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding />
->>>>>>> origin/master
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state vertical-scroll-proportion="0.79310346">
-              <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="-10.625">
-              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-=======
-=======
->>>>>>> origin/master
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
->>>>>>> origin/master
->>>>>>> Stashed changes
+            <state vertical-scroll-proportion="-19.208334">
+              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="galleri_test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/galleri_test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Start.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Start.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/Start.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6847361">
+              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kontakt.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontakt.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+              <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="galleri.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/galleri.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.875">
+              <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="företaget.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/företaget.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.75">
+              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -112,63 +90,8 @@
         <entry file="file://$PROJECT_DIR$/site/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-              <caret line="1744" column="39" selection-start-line="1744" selection-start-column="39" selection-end-line="1744" selection-end-column="39" />
-=======
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
               <caret line="1761" column="15" selection-start-line="1761" selection-start-column="15" selection-end-line="1761" selection-end-column="15" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< Updated upstream
-      <file leaf-file-name="företaget.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/företaget.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.083334">
-              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
-=======
-      <file leaf-file-name="företaget.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/företaget.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59343797">
-              <caret line="87" column="275" selection-start-line="87" selection-start-column="275" selection-end-line="87" selection-end-column="275" />
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="galleri.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/galleri.html">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="0.957204">
-              <caret line="150" column="7" selection-start-line="150" selection-start-column="7" selection-end-line="150" selection-end-column="7" />
-              <folding>
-                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-=======
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
-            <state vertical-scroll-proportion="0.0">
-              <caret line="83" column="64" selection-start-line="83" selection-start-column="64" selection-end-line="83" selection-end-column="64" />
-              <folding />
->>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -193,33 +116,18 @@
         <option value="$PROJECT_DIR$/www.keycreation.se_files/site/företaget.html" />
         <option value="$PROJECT_DIR$/www.keycreation.se_files/site/galleri.html" />
         <option value="$PROJECT_DIR$/www.keycreation.se_files/site/kontakt.html" />
-        <option value="$PROJECT_DIR$/site/kontakt.html" />
         <option value="$PROJECT_DIR$/site/css/foundation.css" />
         <option value="$PROJECT_DIR$/site/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/site/Start.html" />
         <option value="$PROJECT_DIR$/site/galleri2.html" />
         <option value="$PROJECT_DIR$/site/source/galleri_test.html" />
         <option value="$PROJECT_DIR$/site/galleri_test.html" />
-<<<<<<< Updated upstream
-        <option value="$PROJECT_DIR$/site/galleri.html" />
         <option value="$PROJECT_DIR$/site/galleri_test2.html" />
         <option value="$PROJECT_DIR$/site/js/script.js" />
+        <option value="$PROJECT_DIR$/site/css/style.css" />
+        <option value="$PROJECT_DIR$/site/kontakt.html" />
         <option value="$PROJECT_DIR$/site/företaget.html" />
-        <option value="$PROJECT_DIR$/site/css/style.css" />
-=======
-        <option value="$PROJECT_DIR$/site/js/script.js" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/site/css/style.css" />
-        <option value="$PROJECT_DIR$/site/galleri_test2.html" />
         <option value="$PROJECT_DIR$/site/galleri.html" />
-=======
-        <option value="$PROJECT_DIR$/site/företaget.html" />
->>>>>>> origin/master
-=======
-        <option value="$PROJECT_DIR$/site/företaget.html" />
->>>>>>> origin/master
->>>>>>> Stashed changes
+        <option value="$PROJECT_DIR$/site/Start.html" />
       </list>
     </option>
   </component>
@@ -235,7 +143,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -258,17 +166,6 @@
       <sortByType />
     </navigator>
     <panes>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <pane id="Scratches" />
-      <pane id="Scope" />
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -357,17 +254,8 @@
           </PATH>
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
       <pane id="Scope" />
       <pane id="Scratches" />
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,11 +285,21 @@
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -448,26 +346,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -490,7 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1586" column="2" selection-start-line="1586" selection-start-column="2" selection-end-line="1586" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,9 +416,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1586" column="2" selection-start-line="1586" selection-start-column="2" selection-end-line="1586" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1586" column="2" selection-start-line="1586" selection-start-column="2" selection-end-line="1586" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,13 +603,6 @@
     <entry file="file://$PROJECT_DIR$/site/galleri.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/kontakt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
@@ -739,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1586" column="2" selection-start-line="1586" selection-start-column="2" selection-end-line="1586" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,11 +643,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kontakt.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/img/fff.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -773,29 +653,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/Start.html">
+    <entry file="file://$PROJECT_DIR$/site/galleri_test2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-          <caret line="1744" column="39" selection-start-line="1744" selection-start-column="39" selection-end-line="1744" selection-end-column="39" />
-=======
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
-          <caret line="83" column="64" selection-start-line="83" selection-start-column="64" selection-end-line="83" selection-end-column="64" />
->>>>>>> origin/master
-          <folding />
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -803,105 +664,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/site/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1761" column="15" selection-start-line="1761" selection-start-column="15" selection-end-line="1761" selection-end-column="15" />
-=======
-    <entry file="file://$PROJECT_DIR$/site/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="-10.625">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-=======
-=======
->>>>>>> origin/master
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
->>>>>>> origin/master
->>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/kontakt.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.208334">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/företaget.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.083334">
-          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
-=======
-    <entry file="file://$PROJECT_DIR$/site/galleri_test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="-11.083333">
-          <caret line="121" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="7" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-=======
-=======
->>>>>>> origin/master
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
->>>>>>> Stashed changes
+        <state vertical-scroll-proportion="-18.75">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
           <folding />
->>>>>>> origin/master
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/site/galleri_test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-=======
     <entry file="file://$PROJECT_DIR$/site/galleri.html">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.957204">
-          <caret line="150" column="7" selection-start-line="150" selection-start-column="7" selection-end-line="150" selection-end-column="7" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-=======
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1761" column="15" selection-start-line="1761" selection-start-column="15" selection-end-line="1761" selection-end-column="15" />
->>>>>>> Stashed changes
+        <state vertical-scroll-proportion="-21.875">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/site/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79310346">
-          <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
-=======
-    <entry file="file://$PROJECT_DIR$/site/företaget.html">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-=======
         <state vertical-scroll-proportion="0.0">
-          <caret line="1761" column="15" selection-start-line="1761" selection-start-column="15" selection-end-line="1761" selection-end-column="15" />
+          <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/företaget.html">
+    <entry file="file://$PROJECT_DIR$/site/Start.html">
       <provider selected="true" editor-type-id="text-editor">
->>>>>>> origin/master
-        <state vertical-scroll-proportion="0.59343797">
-          <caret line="87" column="275" selection-start-line="87" selection-start-column="275" selection-end-line="87" selection-end-column="275" />
->>>>>>> Stashed changes
+        <state vertical-scroll-proportion="0.6847361">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
           <folding />
->>>>>>> origin/master
         </state>
       </provider>
     </entry>
