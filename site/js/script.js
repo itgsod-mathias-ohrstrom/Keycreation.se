@@ -1760,6 +1760,3 @@
         return GoogleImageLayout;
     });
 },{}]},{},[5]);
-
-
-swag
