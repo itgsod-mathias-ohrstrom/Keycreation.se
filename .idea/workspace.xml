@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5440873-a423-48ba-908e-f3af98049e25" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/företaget.html" afterPath="$PROJECT_DIR$/site/företaget.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/style.css" afterPath="$PROJECT_DIR$/site/css/style.css" />
     </list>
     <ignored path="Keycreation.se.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,18 +27,18 @@
       <file leaf-file-name="galleri_test2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/galleri_test2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.79310346">
+              <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="företaget.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="företaget.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/företaget.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59343797">
-              <caret line="87" column="275" selection-start-line="87" selection-start-column="275" selection-end-line="87" selection-end-column="275" />
+            <state vertical-scroll-proportion="-21.083334">
+              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -122,9 +123,9 @@
         <option value="$PROJECT_DIR$/site/galleri_test.html" />
         <option value="$PROJECT_DIR$/site/galleri.html" />
         <option value="$PROJECT_DIR$/site/galleri_test2.html" />
-        <option value="$PROJECT_DIR$/site/css/style.css" />
         <option value="$PROJECT_DIR$/site/js/script.js" />
         <option value="$PROJECT_DIR$/site/företaget.html" />
+        <option value="$PROJECT_DIR$/site/css/style.css" />
       </list>
     </option>
   </component>
@@ -680,22 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/galleri_test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -706,8 +691,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/företaget.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59343797">
-          <caret line="87" column="275" selection-start-line="87" selection-start-column="275" selection-end-line="87" selection-end-column="275" />
+        <state vertical-scroll-proportion="-21.083334">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/galleri_test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79310346">
+          <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
           <folding />
         </state>
       </provider>
